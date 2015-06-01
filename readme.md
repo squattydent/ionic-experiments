@@ -1,7 +1,6 @@
-Ionic Experiments
-=====================
+[![Ionic Experiments](https://bitbucket-assetroot.s3.amazonaws.com/repository/7eKder/1771259837-cover.png?Signature=Lw7OdM4PwQ1sRAEwcnu5S98DRvg%3D&Expires=1433137578&AWSAccessKeyId=0EMWEFSGA12Z1HF1TZ82)](https://github.com/cjpatoilo/ionic-experiments)
 
-> A showcase of Ionic experiments written for the creative coding community.
+> A showcase of Ionic Experiments written for the creative coding community.
 
 ## What is Ionic?
 
