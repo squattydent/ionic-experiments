@@ -1,7 +1,15 @@
 angular.module('app.controllers', [])
 
 
-	.controller('AppController', function ($scope) {
+	.controller('AppController', function ($scope, $ionicModal) {
+
+		$ionicModal.fromTemplateUrl('templates/profile.html', {
+			scope: $scope,
+			animation: 'slide-in-up'
+		}).then(function (modal) {
+			$scope.profileModal = modal;
+		});
+
 	})
 
 
