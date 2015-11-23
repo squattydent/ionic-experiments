@@ -1,4 +1,4 @@
-[![Ionic Experiments](https://bitbucket-assetroot.s3.amazonaws.com/repository/7eKder/1771259837-cover.png?Signature=Lw7OdM4PwQ1sRAEwcnu5S98DRvg%3D&Expires=1433137578&AWSAccessKeyId=0EMWEFSGA12Z1HF1TZ82)](https://github.com/cjpatoilo/ionic-experiments)
+[![Ionic Experiments](https://scontent-mia1-1.xx.fbcdn.net/hphotos-xtp1/v/t34.0-12/12282834_908998099147414_1130206919_n.jpg?oh=a3a0a69ee0e651934eb6406a22eeb823&oe=56562BF8)](https://github.com/cjpatoilo/ionic-experiments)
 
 > A showcase of Ionic Experiments written for the creative coding community.
 
